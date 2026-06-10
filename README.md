@@ -3,7 +3,7 @@ This is a start of using Github
 
 ## Features introduction
 - Function One：Print "Hello Github!"
-- Function Two：to be done
+- Function Two：AI learning
 
 ## Using method
 Please run with the following command:
